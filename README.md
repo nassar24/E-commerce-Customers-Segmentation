@@ -79,11 +79,7 @@ The project uses the following datasets:
 
 ### Instructions
 1. **Clone the repository** or download the project files.
-2. **Install dependencies**: 
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. **Run the Jupyter Notebook or Python scripts**:
+2. **Run the Jupyter Notebook or Python scripts**:
     - Preprocessing, feature engineering, clustering, and visualization can be executed by running the notebook or the corresponding scripts in sequence.
   
 ## Files Included
